@@ -10,7 +10,7 @@ Linguagens de programação: PHP, HTML, CSS
 
 Banco de dados: MySQL
 
-Sistemas operacionais: Linux
+Sistemas operacionais: Linux e Windows
 
 Controle de versão: GIT
 
@@ -25,7 +25,3 @@ Ferramentas de controle de versão e colaboração: Git e GitHub
 Vamos conectar?
 
 Fique à vontade para explorar meus projetos ou entrar em contato. Adoro trocar ideias e colaborar em projetos que fazem a diferença!
-
-E-mail: [Seu e-mail aqui]
-
-LinkedIn: [Seu LinkedIn aqui]
