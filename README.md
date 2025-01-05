@@ -5,7 +5,7 @@ Sou um **Analista de Sistemas Junior - N2** com mais de 2 anos de experiência e
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
+## 🚀 Tecnologias e Ferramentas utilizadas diariamente
 
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
