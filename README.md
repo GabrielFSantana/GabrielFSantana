@@ -1,4 +1,4 @@
-# Olá, eu sou o Gabriel 👋
+# Olá, eu sou o Gabriel Santana, mas pode me chamar de BIU 👋
 
 ## Sobre mim
 Sou um **Analista de Sistemas Junior - N2** com mais de 2 anos de experiência em uma healthtech. Trabalho com tecnologias modernas para criar soluções eficientes, sempre buscando aprender e evoluir no mundo da tecnologia.
@@ -25,8 +25,8 @@ Sou um **Analista de Sistemas Junior - N2** com mais de 2 anos de experiência e
 
 ## 🌐 Vamos Conectar?
 
-- **E-mail**: [Seu E-mail Aqui](mailto:seuemail@exemplo.com)
-- **LinkedIn**: [Seu LinkedIn Aqui](https://www.linkedin.com/in/seu-perfil)
+- **E-mail**: [gabrielsantfelipe@gmail.com](mailto:gabrielsantfelipe@gmail.com)
+- **LinkedIn**: [Seu LinkedIn Aqui](https://www.linkedin.com/in/gabrielsbelarmino/)
 
 ---
 
