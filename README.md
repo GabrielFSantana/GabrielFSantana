@@ -27,7 +27,7 @@ Sou um **Analista de Sistemas Junior - N2** com mais de 2 anos de experiência e
 
 - **E-mail**: [gabrielsantfelipe@gmail.com](mailto:gabrielsantfelipe@gmail.com)
 - **LinkedIn**: [Gabriel Felipe Santana Belarmino](https://www.linkedin.com/in/gabrielsbelarmino/)
-- **Discord**: _biu_
+- **Discord**: \_biu\_
   
 ---
 
