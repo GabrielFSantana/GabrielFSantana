@@ -32,3 +32,5 @@ Sou um **Analista de Sistemas Junior - N2** com mais de 2 anos de experiência e
 ---
 
 _Sinta-se à vontade para explorar meus projetos ou entrar em contato para trocarmos ideias e experiências!_
+
+![Estatísticas do GitHub de GabrielFSantana](https://github-readme-stats.vercel.app/api?username=GabrielFSantana&show_icons=true&theme=radical)
