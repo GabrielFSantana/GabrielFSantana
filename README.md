@@ -1,8 +1,7 @@
 # Olá, eu sou o Gabriel Santana, mas pode me chamar de BIU 👋
 
 ## Sobre mim
-Sou um **Analista de Sistemas Junior - N2** com mais de 2 anos de experiência em uma startup de healthtech. Trabalho com tecnologias modernas para criar soluções eficientes, sempre buscando aprender e evoluir no mundo da tecnologia.
-
+Sou um entusiasta da tecnologia e trabalho como Analista de Sistemas, focado em servidores Linux, banco de dados MySQL e desenvolvimento em PHP. Tenho experiência com suporte técnico, infraestrutura e sistemas para o setor de saúde, especialmente na área hospitalar.
 ---
 
 ## 🚀 Tecnologias e Ferramentas utilizadas diariamente
