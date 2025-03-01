@@ -2,7 +2,7 @@
 
 ## Sobre mim
 Sou um entusiasta da tecnologia e trabalho como Analista de Sistemas, focado em servidores Linux, banco de dados MySQL e desenvolvimento em PHP. Tenho experiência com suporte técnico, infraestrutura e sistemas para o setor de saúde, especialmente na área hospitalar.
----
+
 
 ## 🚀 Tecnologias e Ferramentas utilizadas diariamente
 
