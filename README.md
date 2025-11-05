@@ -34,9 +34,4 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFSantana&layout=compact&hide_border=true&title_color=0000FF&text_color=00FFFF&bg_color=0d1117" />
 </div>
 
- <div align="center">
-<br><p align="centre"><b>Contador de Visitantes</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{GabrielFSantana}/count.svg" /></p> 
-<br>
-</div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer"/>
