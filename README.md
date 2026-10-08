@@ -114,7 +114,6 @@ Recebe métricas por webhook, **classifica a severidade** (NORMAL, ALERTA, CRÍT
 
 ### 📚 Estudos e experimentos
 - 🔐 [**Mini-guia de segurança de APIs**](https://github.com/GabrielFSantana/miniguia-estudos-notebooklm): estudo sobre **OWASP API Top 10** com NotebookLM, biblioteca de prompts reutilizáveis e checklist prático.
-- 🧪 [**Desafio n8n + Prompt Engineering**](https://github.com/GabrielFSantana/desafio-n8n-prompt-dio): exercício de automação e engenharia de prompt.
 
 ---
 
